@@ -56,7 +56,7 @@ function App() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: `url(${heroImage})` }}
+          style={{ backgroundImage: `url(https://hzksjbnudhswgqmccfnu.supabase.co/storage/v1/object/public/imagens-site-leco/imgs-home/Destination%20Wedding/Casamento%20Daiana%20e%20Lucas_1051.jpg)` }}
         >
           <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         </div>
