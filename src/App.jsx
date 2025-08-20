@@ -4,7 +4,7 @@ import { Heart, Star, Users, Calendar, Award, Phone, Mail, Instagram } from 'luc
 import './App.css';
 
 // Importando as imagens
-import heroImage from './assets/qV7N8cbIDhwe.jpeg';
+import heroImage from './assets/casamento_daiana_lucas.jpg';
 import planningImage from './assets/ZpzqXEg0zvsM.jpg';
 import destinationImage from './assets/6pJZrLvs4i1T.jpg';
 import experienceImage from './assets/hNuebPEpoFyN.jpg';
